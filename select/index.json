@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "カウントダウンラブ (Game Size)",
+  "base_artist": "I'm a Cutie Finder",
+  "createdAt": "2026-03-22T07:26:45.953960Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カウントダウンラブ (Off Vocal)",
+      "artist": "I'm a Cutie Finder",
+      "has_synced": true,
+      "path": "select/01_カウントダウンラブ_(Off_Vocal)_I'm_a_Cutie_Finder.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カウントダウンラブ",
+      "artist": "I'm a Cutie Finder",
+      "has_synced": true,
+      "path": "select/02_カウントダウンラブ_I'm_a_Cutie_Finder.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カウントダウンラブ",
+      "artist": "I'm a Cutie Finder",
+      "has_synced": false,
+      "path": "select/pl_01_カウントダウンラブ_I'm_a_Cutie_Finder.txt"
+    }
+  ]
+}
